@@ -1,2 +1,2 @@
-status = []
+status = ["continuous-integration/travis-ci/push"]
 use_squash_merge = true
