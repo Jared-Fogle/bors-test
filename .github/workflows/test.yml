@@ -8,7 +8,7 @@ on:
     - master
 jobs:
   test:
-    runs-on: ubunt-latest
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
     - name: Run tests
